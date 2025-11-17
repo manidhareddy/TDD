@@ -17,6 +17,6 @@ We are calling the Errorf method on our t, which will print out a message and fa
 
 ## command to run test cases
 
-bash '''
+``` bash
 >> go test
-'''
+```
